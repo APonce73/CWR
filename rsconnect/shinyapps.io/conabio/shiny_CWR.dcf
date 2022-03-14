@@ -1,0 +1,14 @@
+name: shiny_CWR
+title: shiny_CWR
+username:
+account: conabio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5784932
+bundleId: 5644525
+url: https://conabio.shinyapps.io/shiny_CWR/
+when: 1646439260.53842
+lastSyncTime: 1646439260.53844
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: database/lat_negativa.xlsx|database/Long_positiva.xlsx
